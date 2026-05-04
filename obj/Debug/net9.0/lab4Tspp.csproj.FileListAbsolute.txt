@@ -1,0 +1,14 @@
+C:\Users\serhii\OneDrive\Робочий стіл\Study\lab4Tspp\bin\Debug\net9.0\lab4Tspp.exe
+C:\Users\serhii\OneDrive\Робочий стіл\Study\lab4Tspp\bin\Debug\net9.0\lab4Tspp.deps.json
+C:\Users\serhii\OneDrive\Робочий стіл\Study\lab4Tspp\bin\Debug\net9.0\lab4Tspp.runtimeconfig.json
+C:\Users\serhii\OneDrive\Робочий стіл\Study\lab4Tspp\bin\Debug\net9.0\lab4Tspp.dll
+C:\Users\serhii\OneDrive\Робочий стіл\Study\lab4Tspp\bin\Debug\net9.0\lab4Tspp.pdb
+C:\Users\serhii\OneDrive\Робочий стіл\Study\lab4Tspp\obj\Debug\net9.0\lab4Tspp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serhii\OneDrive\Робочий стіл\Study\lab4Tspp\obj\Debug\net9.0\lab4Tspp.AssemblyInfoInputs.cache
+C:\Users\serhii\OneDrive\Робочий стіл\Study\lab4Tspp\obj\Debug\net9.0\lab4Tspp.AssemblyInfo.cs
+C:\Users\serhii\OneDrive\Робочий стіл\Study\lab4Tspp\obj\Debug\net9.0\lab4Tspp.csproj.CoreCompileInputs.cache
+C:\Users\serhii\OneDrive\Робочий стіл\Study\lab4Tspp\obj\Debug\net9.0\lab4Tspp.dll
+C:\Users\serhii\OneDrive\Робочий стіл\Study\lab4Tspp\obj\Debug\net9.0\refint\lab4Tspp.dll
+C:\Users\serhii\OneDrive\Робочий стіл\Study\lab4Tspp\obj\Debug\net9.0\lab4Tspp.pdb
+C:\Users\serhii\OneDrive\Робочий стіл\Study\lab4Tspp\obj\Debug\net9.0\lab4Tspp.genruntimeconfig.cache
+C:\Users\serhii\OneDrive\Робочий стіл\Study\lab4Tspp\obj\Debug\net9.0\ref\lab4Tspp.dll
